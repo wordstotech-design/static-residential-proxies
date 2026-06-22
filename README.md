@@ -1,8 +1,8 @@
 # Static Residential Proxies
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/a0da87e9-7ba7-4e89-9369-e78684b068c3">
-    <img src="" alt="static-residential-proxies" />
+  <a href="https://www.proxy-cheap.com/services/static-residential-proxies">
+    <img src="https://github.com/user-attachments/assets/a0da87e9-7ba7-4e89-9369-e78684b068c3" alt="static-residential-proxies" />
   </a>
 </p>
 
