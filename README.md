@@ -1,4 +1,12 @@
-# Static Residential Proxy Server Setup (Python, Node, cURL)
+# Static Residential Proxies
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/a0da87e9-7ba7-4e89-9369-e78684b068c3">
+    <img src="" alt="static-residential-proxies" />
+  </a>
+</p>
+
+
 
 A practical guide to **static residential proxies**: what they are, how they differ from rotating residential IPs, and how to connect to a static residential proxy server over HTTP and SOCKS5 with Python, Node.js, and cURL. Working examples are in [examples/](examples/).
 
