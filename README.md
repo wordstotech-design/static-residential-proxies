@@ -8,7 +8,7 @@
 
 
 
-A practical guide to **static residential proxies**: what they are, how they differ from rotating residential IPs, and how to connect to a static residential proxy server over HTTP and SOCKS5 with Python, Node.js, and cURL. Working examples are in [examples/](examples/).
+A practical guide to **static residential proxies**: what they are, how they differ from rotating residential IPs, and how to connect to a [static residential proxy](https://www.proxy-cheap.com/services/static-residential-proxies) server over HTTP and SOCKS5 with Python, Node.js, and cURL. 
 
 Most guides explain what a residential proxy service is and stop there. This one focuses on the part that gets thin fast: the exact connection strings, authentication choices, ISP targeting, and how to verify the proxy is actually carrying your traffic. Everything here uses standard proxy configuration that works with any provider, with Proxy-Cheap as the reference service since it offers per-IP static residential plans.
 
